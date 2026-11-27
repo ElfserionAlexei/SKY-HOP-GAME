@@ -3,12 +3,6 @@
 
 Game pantul vertikal untuk Godot 4.2 atau lebih baru. Semua gambar dan suara dibuat lewat kode, jadi tidak ada file aset.
 
-## Cara membuka
-
-1. Ekstrak zip.
-2. Buka Godot 4, klik **Import**, pilih file `project.godot`.
-3. Tekan **F5** untuk menjalankan.
-
 ## Cara main
 
 - Kiri/kanan atau A/D untuk bergerak. Di layar sentuh atau dengan mouse, tahan dan geser ke arah yang kamu mau.
