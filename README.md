@@ -21,6 +21,3 @@ Semua ada di `main.gd`. Angka yang paling sering diubah ada di bagian atas file:
 - `MAX_LIVES`: jumlah nyawa.
 - Fungsi `generate()`: kerapatan platform, musuh, dan koin.
 
-## Font sendiri
-
-Supaya tampilan teks lebih berkarakter, unduh font gratis (misalnya Lilita One atau Fredoka dari Google Fonts), lalu simpan sebagai `fonts/main.ttf`. Game akan memakainya otomatis.
